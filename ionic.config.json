@@ -1,0 +1,7 @@
+{
+  "name": "SAO",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
